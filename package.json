@@ -1,0 +1,9 @@
+{
+  "name": "stack-to-the-stars-server",
+  "version": "1.0.0",
+  "description": "Multiplayer server for Stack to the Stars (1 vs 1 Tower Race)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "ws": "^8.18.0" }
+}
